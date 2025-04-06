@@ -1,5 +1,3 @@
-:
-
 📊 Sales Analysis Dashboard (Power BI)
 📁 Project Overview
 This project involves creating an interactive and insightful Sales Analysis Dashboard using Microsoft Power BI. The dashboard provides a comprehensive overview of sales performance across different regions, years, product categories, segments, and more. It enables businesses to make data-driven decisions quickly and effectively.
